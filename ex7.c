@@ -21,7 +21,4 @@ int main() {
   }
 
   mediaturma = turma / contador;
-  printf("\nA média da turma é igual a %.2f\n", mediaturma);
-
-  return 0;
 }
