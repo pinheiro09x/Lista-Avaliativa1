@@ -25,6 +25,4 @@ int main() {
   } else {
     printf("\nNão é possível formar um triângulo com esses lados");
   }
-
-  return 0;
 }
